@@ -7,4 +7,4 @@
 4) Commit and Push your changes
 ```
 
-Congrats you made your PR successfully!!
+Congrats you made your P REQUEST successfully!!
