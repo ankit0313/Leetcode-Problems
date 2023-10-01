@@ -24,7 +24,7 @@ class Solution {
 
 //Another Solution with Time And Sppace Complexity of O(n)
 public int[] sortedSquares(int[] nums) {
-        int n = nums.length;
+        int n = nums.length;  // length of given array 
     int[] result = new int[n];
     int left = 0;
     int right = n - 1;
