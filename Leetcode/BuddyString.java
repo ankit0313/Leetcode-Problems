@@ -22,7 +22,7 @@ Explanation: You can swap s[0] = 'a' and s[1] = 'a' to get "aa", which is equal 
 
 import java.util.*;
 
-public class BuddyStrings{
+public class BuddyString{
 
     private static boolean buddyStrings(String s, String goal) {
         if(s.length() != goal.length()) return false;
